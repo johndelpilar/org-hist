@@ -1,0 +1,16 @@
+html, body {
+    background: black;
+    width: 100%;
+}
+
+#home-btn-container {
+    position: absolute;
+    bottom: 10%;
+    left: 30%;
+    margin: 0 auto;
+}
+
+table#home-btn-container tbody tr td button {
+    width: 200px;
+    font-size: xx-large;
+}
